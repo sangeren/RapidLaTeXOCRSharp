@@ -1,0 +1,2 @@
+# RapidLaTeXOCRSharp
+ocr tatext
